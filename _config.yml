@@ -2,6 +2,7 @@ name: RedTeam
 favicon: null
 layout_spectrum: 0.29801244009286165
 typography_spectrum: 0.6908158254809678
+title: 'Rebuilding Environments by Design '
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#d50a19'
-    - '#545859'
-    - '#f4ccc5'
-    - '#858585'
+    - '#f1f1f1'
+    - '#34343c'
+    - '#b9010b'
+    - '#c4c4c4'
+    - '#656567'
   brandStrength: 0.5
   lightness: 0.8478672029450536
   saturation: 0.9241361902095377

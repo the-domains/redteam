@@ -1,7 +1,7 @@
 name: RedTeam
 favicon: null
-layout_spectrum: 0.29801244009286165
-typography_spectrum: 0.6908158254809678
+layout_spectrum: 0.14764
+typography_spectrum: 0.11455
 title: 'Rebuilding Environments by Design '
 cta:
   domain: null
